@@ -32,7 +32,7 @@ Easily create, organize, and manage your tasks/notes, while the AI helps with su
 - Git installed
 - API key for AI service (e.g., OpenAI)
 
-### Installation
+## Installation
 ```bash
 # Clone the repo
 git clone https://github.com/your-username/ai-todo-notes.git
