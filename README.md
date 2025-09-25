@@ -6,6 +6,7 @@ Easily create, organize, and manage your tasks/notes, while the AI helps with su
 ---
 
 ## ✨ Features
+
 - ✅ Create, edit, and delete tasks
 - 📝 Write and organize notes in folders/tags
 - 🤖 AI assistance for:
@@ -13,14 +14,15 @@ Easily create, organize, and manage your tasks/notes, while the AI helps with su
   - Prioritizing tasks
   - Suggesting deadlines
 - 🔔 Smart reminders & notifications
-- 📱 Responsive design (works on desktop & mobile)
+- 📱 Responsive design (works on mobile - Desktop version coming soon)
 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript (or React/React Native if you’re building it that way)  
-- **Backend:** Node.js / Express (or Firebase)  
-- **Database:** MongoDB / Firestore  
+
+- **Frontend:** HTML, CSS, JavaScript (or React/React Native if you’re building it that way)
+- **Backend:** Node.js / Express (or Firebase)
+- **Database:** MongoDB / Firestore
 - **AI Integration:** OpenAI API (or any preferred LLM service)
 
 ---
@@ -28,11 +30,13 @@ Easily create, organize, and manage your tasks/notes, while the AI helps with su
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - [Node.js](https://nodejs.org/) installed
 - Git installed
 - API key for AI service (e.g., OpenAI)
 
-## Installation
+### Installation
+
 ```bash
 # Clone the repo
 git clone https://github.com/your-username/ai-todo-notes.git
@@ -42,3 +46,4 @@ cd ai-todo-notes
 
 # Install dependencies
 npm install
+```

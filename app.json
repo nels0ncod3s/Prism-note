@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "Prism",
     "name": "Prism",
     "slug": "Prism",
     "version": "1.0.0",
